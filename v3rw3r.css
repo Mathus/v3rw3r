@@ -52,4 +52,7 @@ body {
   }
 } 
 
-div.solid {border-style: solid;}
+div.solid {
+  border-style: solid;
+  border-radius: 8px;
+}
