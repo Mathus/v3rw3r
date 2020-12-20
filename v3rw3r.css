@@ -53,6 +53,6 @@ body {
 } 
 
 div.solid {
-  border: 1px solid blue-grey;
+  border: 1px solid cadetblue;
   border-radius: 8px;
 }
