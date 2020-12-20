@@ -13,6 +13,7 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #333;
+  margin-bottom: 15px;
 }
 
 /* Navbar links */
