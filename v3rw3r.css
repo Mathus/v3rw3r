@@ -50,3 +50,5 @@ body {
     width: 100%;
   }
 } 
+
+p.solid {border-style: solid;}
