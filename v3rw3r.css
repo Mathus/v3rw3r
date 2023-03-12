@@ -2,6 +2,16 @@ body {
   background-color: lightgray;
 }
 
+@font-face {
+    font-family: remarcle;
+    src: url(Remarcle.ttf);
+}
+  
+h2 {
+    font-family: remarcle;
+    color: darkgreen;
+}
+
 /* The header container */
 .header {
   background-color: #F1F1F1;
