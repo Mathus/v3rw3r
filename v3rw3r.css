@@ -3,12 +3,12 @@ body {
 }
 
 @font-face {
-    font-family: remarcle;
-    src: url(Remarcle.ttf);
+    font-family: karmafuture;
+    src: url(Karma Future.otf);
 }
   
 h2 {
-    font-family: remarcle;
+    font-family: karmafuture;
     color: darkgray;
     font-size: 30px;
 }
