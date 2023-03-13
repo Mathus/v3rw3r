@@ -7,7 +7,7 @@ body {
     src: url("Karma Future.otf") format("opentype");
 }
   
-h2 {
+h1 {
     font-family: karmafuture;
     color: darkgray;
     font-size: 30px;
