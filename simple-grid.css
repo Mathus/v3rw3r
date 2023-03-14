@@ -3,7 +3,18 @@
 *** (C) ZACH COLE 2016
 **/
 
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic);
+/** @import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic); **/
+
+@font-face {
+    font-family: karmafuture;
+    src: url("Karma Future.otf") format("opentype");
+}
+  
+h1 {
+    font-family: karmafuture;
+    color: darkgray;
+    font-size: 60px;
+}
 
 /* UNIVERSAL */
 
