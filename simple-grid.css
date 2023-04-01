@@ -5,6 +5,21 @@
 
 /** @import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic); **/
 
+/*Background*/
+.bg {
+  /* The image used */
+  background-image: url("SL_111219_25000_12.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}/*Background*/
+
+
 div.solid {
   border: 1px solid cadetblue;
   border-radius: 8px;
@@ -31,7 +46,12 @@ tr:nth-child(even) {
     font-family: karmafuture;
     src: url("Karma Future.otf") format("opentype");
 }
-  
+
+.future{
+  font-size: 30px;
+  font-family: karmafuture;
+}
+
 h1 {
     font-family: karmafuture;
     color: darkgray;
@@ -47,11 +67,10 @@ h1 {
 color: darkgray; 
 font-size: 30px; 
 text-decoration: none; 
-font-family: karmafuture; 
+/*font-family: karmafuture; */
 }
 
 /* UNIVERSAL */
-
 html,
 body {
   height: 100%;
